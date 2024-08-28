@@ -1,6 +1,10 @@
 실습환경 구성용 wificonfig파일.
 
+방법1 (수동편집)
 라즈베리파이 sd카드에서 /config/network/ 디렉터리에 저장
+
+방법2 (자동편집)
+라즈베리파이 sd카드에 download_wifi_setting.bat 파일을 최상위 경로에 다운로드 후에 실행. 1~50번 사이의 실습 번호 입력
 
 실습 기본 WiFi 정보는 아래와 같음
 SSID : ICQA
